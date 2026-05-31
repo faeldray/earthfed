@@ -1,0 +1,12 @@
+{
+	"type": "content",
+	"modid": "earthfed",
+	"name": "Earthfed",
+	"side": "universal",
+	"requiredOnClient": true,
+	"requiredOnServer": true,
+	"description" : "More fertilizers made from feathers, seaweed, and blood",
+	"authors": ["Faeldray"],
+	"version": "1.0.0",
+	"dependencies": { }
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"file": "patches/seaweed.json",
+		"op": "replace",
+		"path": "/0/enabled",
+		"value": false,
+		"dependsOn": [ { "modid": "expandedfoods" } ]
+	},
+	{
+		"op": "addmerge",
+		"path": "/grindingPropsByType",
+		"value": { "*-mash": { "groundStack": { "type": "item", "code": "earthfed:seaweedmeal-wet", "stacksize": 1 } } },
+		"side": "server",
+		"file": "expandedfoods:itemtypes/food/driedseaweed.json",
+		"dependsOn": [ { "modid": "expandedfoods" }, { "modid": "longtermfood", "invert": true } ]
+	}
+]

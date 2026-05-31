@@ -1,0 +1,23 @@
+[
+	{
+		"file": "itemtypes/resources/bloodchunks.json",
+		"op": "replace",
+		"path": "/enabled",
+		"value": true,
+		"dependsOn": [ { "modid": "butchering" } ]
+	},
+	{
+		"file": "itemtypes/resources/bloodmeal.json",
+		"op": "replace",
+		"path": "/enabled",
+		"value": true,
+		"dependsOn": [ { "modid": "butchering" } ]
+	},
+	{
+		"file": "recipes/cooking/bloodchunks.json",
+		"op": "replace",
+		"path": "/enabled",
+		"value": true,
+		"dependsOn": [ { "modid": "butchering" } ]
+	}
+]

@@ -1,0 +1,10 @@
+[
+	{
+		"op": "addmerge",
+		"path": "/grindingProps",
+		"value": { "groundStack": { "type": "item", "code": "earthfed:seaweedmeal-wet", "stacksize": 1 } },
+		"side": "server",
+		"file": "game:blocktypes/plant/aquatic/seaweed.json",
+		"enabled": true
+	}
+]

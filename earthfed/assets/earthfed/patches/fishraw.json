@@ -1,0 +1,120 @@
+[
+	{
+		"op": "addmerge",
+		"path": "/grindingPropsByType",
+		"value": {
+			"fishraw-reef-angel-bicolor-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-butterfly-blackwedged-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-butterfly-copperband-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-clown-black-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-clown-common-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-clown-yellowstripe-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-puffer-longspine-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-tang-banded-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-tang-powderblue-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-trigger-titan-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-reef-wrasse-creole-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			
+			"fishraw-saltwater-bream-sea-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-gurnard-cape-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-haddock-common-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-hake-silver-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-pollock-alaska-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+
+			"fishraw-saltwater-bream-sea-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-gurnard-cape-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-haddock-common-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-hake-silver-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-pollock-alaska-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+
+			"fishraw-saltwater-herring-atlantic-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-saltwater-mackerel-atlantic-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+
+			"fishraw-saltwater-herring-atlantic-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-mackerel-atlantic-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+
+			"fishraw-saltwater-perch-pacific-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+
+			"fishraw-saltwater-salmon-pink-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-snapper-red-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-tuna-skipjack-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-wolf-bering-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-saltwater-wreckfish-atlantic-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+
+			"fishraw-saltwater-salmon-pink-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-snapper-red-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-tuna-skipjack-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-wolf-bering-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-saltwater-wreckfish-atlantic-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+
+			"fishraw-saltwater-barracuda-great-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 6 } },
+			"fishraw-saltwater-sturgeon-atlantic-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 6 } },
+			"fishraw-saltwater-amberjack-yellowtail-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 6 } },
+
+			"fishraw-saltwater-barracuda-great-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-saltwater-sturgeon-atlantic-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-saltwater-amberjack-yellowtail-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+
+			"fishraw-saltwater-grouper-black-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 8 } },
+			"fishraw-saltwater-mahi-mahi-common-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 8 } },
+			"fishraw-saltwater-coelacanth-common-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 12 } },
+
+			"fishraw-saltwater-grouper-black-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-saltwater-mahi-mahi-common-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-saltwater-coelacanth-common-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+
+			"fishraw-freshwater-alewife-shad-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-chub-river-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-crappie-black-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-crappie-white-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+
+			"fishraw-freshwater-perch-european-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-freshwater-perch-yellow-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-freshwater-piranha-black-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-freshwater-piranha-red-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-freshwater-tilapia-nile-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-tilapia-red-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-trout-brown-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-freshwater-trout-rainbow-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			
+			"fishraw-freshwater-bass-largemouth-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-bass-smallmouth-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-carp-common-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-carp-grass-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-catfish-blue-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-catfish-channel-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-pickerel-chain-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-salmon-coho-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-walleye-common-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+
+			"fishraw-freshwater-bass-largemouth-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-bass-smallmouth-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-carp-common-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-carp-grass-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-catfish-blue-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-catfish-channel-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-pickerel-chain-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-salmon-coho-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+			"fishraw-freshwater-walleye-common-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 1 } },
+
+			"fishraw-freshwater-pike-northern-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 6 } },
+
+			"fishraw-freshwater-pike-northern-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+
+			"fishraw-freshwater-arapaima-arapaima-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 12 } },
+			"fishraw-freshwater-arapaima-gigas-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 12 } },
+
+			"fishraw-freshwater-arapaima-arapaima-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+			"fishraw-freshwater-arapaima-gigas-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 4 } },
+
+			"fishraw-freshwater-sheatfish-black-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 6 } },
+			"fishraw-freshwater-sheatfish-white-adult": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 6 } },
+
+			"fishraw-freshwater-sheatfish-black-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } },
+			"fishraw-freshwater-sheatfish-white-juvenile": { "groundStack": { "type": "item", "code": "earthfed:fishmeal-wet", "stacksize": 2 } }
+		},
+		"side": "server",
+		"file": "game:itemtypes/food/fishraw.json",
+		"enabled": true
+	}
+]

@@ -1,5 +1,6 @@
 {
 	"code": "feathermeal",
+	"enabled": true,
 	"variantgroups": [
 		{ "code": "material", "states": ["wet", "dried"] }
 	],

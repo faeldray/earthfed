@@ -1,6 +1,7 @@
 [
 	{
 		"code": "feathersboiled",
+		"enabled": true,
 		"perishableProps": {
 			"type": "None",
 			"freshHours": { "avg": 48 },

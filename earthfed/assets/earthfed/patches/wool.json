@@ -1,0 +1,37 @@
+[
+	{
+		"file": "itemtypes/resources/featherboiled.json",
+		"op": "replace",
+		"path": "/enabled",
+		"value": false,
+		"dependsOn": [ { "modid": "wool" } ]
+	},
+	{
+		"file": "itemtypes/resources/feathermeal.json",
+		"op": "replace",
+		"path": "/enabled",
+		"value": false,
+		"dependsOn": [ { "modid": "wool" } ]
+	},
+	{
+		"file": "itemtypes/resources/fishmeal.json",
+		"op": "replace",
+		"path": "/enabled",
+		"value": false,
+		"dependsOn": [ { "modid": "wool" } ]
+	},
+	{
+		"file": "patches/fishraw.json",
+		"op": "replace",
+		"path": "/0/enabled",
+		"value": false,
+		"dependsOn": [ { "modid": "wool" } ]
+	},
+	{
+		"file": "recipes/cooking/feathersboiled.json",
+		"op": "replace",
+		"path": "/0/enabled",
+		"value": false,
+		"dependsOn": [ { "modid": "wool" } ]
+	}
+]

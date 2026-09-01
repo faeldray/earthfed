@@ -1,5 +1,6 @@
 {
 	"code": "fishmeal",
+	"enabled": true,
 	"variantgroups": [
 		{ "code": "material", "states": ["wet", "dried"] }
 	],
